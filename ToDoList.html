@@ -16,11 +16,11 @@
 <body>
   <div class="mytitle">
     <h1>To Do List</h1>
-    <button class="mytitle_btn">등록</button>
+    <button onclick="ToDoList()" class="mytitle_btn">등록</button>
   </div>
 
-  <div class="container">
-    <div class="content">
+  <div class="schedule">
+    <div class="schedule_contents">
       <input id="contens" type="text" placeholder="일정 내용을 입력하시오">
       <button onclick="AddListUp()" class="add_btn">추가</button>
     </div>
@@ -33,15 +33,17 @@
         <div class="list_group">
           <ul id="list_container" class="todo-list">
             <li class="list">
-              <div class="bx bx-leaf" id="checkbox"></div>
+              <div class="checkbox_title"><div class="checkbox"><img class="flower"></div></div>
               <div class="todolist_container">일정 내용 기록하기</div>
-              <button class="del_btn">삭제</button>
+              <button onclick="UpdList()" class="upd_btn">수정</button>
+              <button onclick="DelList()" class="del_btn">삭제</button>
             </li>
           </ul>
         </div>
       </div>
     </div>
   </div>
+
 </body>
 </html>
 <!--일정내용 추가가능 (DB저장은 아직X)
