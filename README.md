@@ -21,6 +21,12 @@
 ![To Do List 와이어프레임](https://github.com/Eomhyein/ToDoList/assets/26666131/121f880b-fae3-40e7-adbe-1e4884e37851)
 
 **7. 주요 기능**
+- API 명세서 (구현 기능 안에 상세 설명 추가)
+- 등록
+
+- 수정
+
+- 삭제
 
 **6. 페이지 사진 첨부**
 ![To Do List](https://github.com/Eomhyein/ToDoList/assets/26666131/2b155650-aa6f-4725-bc53-72fc53bfcb62)
