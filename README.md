@@ -14,8 +14,8 @@
 **4. 개발 기간** : 2024.
 
 **5. 개발 환경**
-FontEnd : HTML, CSS, JavaScript, Bootstrap
-BackEnd : Firebase
+- FontEnd : HTML, CSS, JavaScript, Bootstrap
+- BackEnd : Firebase
 
 **6. 와이어 프레임**
 ![To Do List 와이어프레임](https://github.com/Eomhyein/ToDoList/assets/26666131/121f880b-fae3-40e7-adbe-1e4884e37851)
